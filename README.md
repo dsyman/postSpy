@@ -1,2 +1,4 @@
-# postSpay
-Eclipse, Rational Team Concert, Rational Software Architect and RAD studio plugin for Security Reviewer 
+# postSpy
+Eclipse, Rational Team Concert, Rational Software Architect and RAD studio plugin for Security Reviewer.
+
+Security Reviewer PostSpy plugin for Eclipse, Rational RTC, RAS and RAD Studio plugin shares the same interface and scans source code written in JAVA, JSP, JavaScript and SQL programming languages, directly from Eclipse, IBM Rapid Application Developer (RAD), IBM Rational Team Concert (RTC), and IBM Rational Software Architect (RSA). Further than source code, PostSpy processes all configuration files (XML, XSD, XPath, .cfg, .conf, .yml, json, etc.), binaries (JAR, WAR, EAR) and frameworks (115 JAVA and 52 JavaScript frameworks of the most used), finding and detects weaknesses hidden inside them, and assesses potential vulnerabilities according OWASP, PCI-DSS, WASC, CVE, CVSS and CWE-SANS international standards
